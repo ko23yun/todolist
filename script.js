@@ -1,1 +1,1 @@
-let num = 0;
+const name = 0;
